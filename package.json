@@ -1,0 +1,15 @@
+{
+  "name": "opp-finder",
+  "version": "1.0.0",
+  "description": "Fins opportunities asynchronously relative to grand-central-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
