@@ -1,0 +1,287 @@
+[
+  {
+    "difference": "0.0009351127112240398",
+    "high": {
+      "exchange": "binance",
+      "last": 0.057116,
+      "timestamp": "2018-08-08T19:30:46.421Z"
+    },
+    "low": {
+      "exchange": "bitstamp",
+      "last": 0.05706264,
+      "timestamp": "2018-08-08T19:30:47.799Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756646421
+  },
+  {
+    "difference": "0.0013323983169706288",
+    "high": {
+      "exchange": "binance",
+      "last": 0.057116,
+      "timestamp": "2018-08-08T19:30:46.421Z"
+    },
+    "low": {
+      "exchange": "bittrex",
+      "last": 0.05704,
+      "timestamp": "2018-08-08T19:30:49.051Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756646421
+  },
+  {
+    "difference": "0.00028021015761825474",
+    "high": {
+      "exchange": "binance",
+      "last": 0.057116,
+      "timestamp": "2018-08-08T19:30:46.421Z"
+    },
+    "low": {
+      "exchange": "coinbase_pro",
+      "last": 0.0571,
+      "timestamp": "2018-08-08T19:30:50.393Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756646421
+  },
+  {
+    "difference": "0.0016457735135513296",
+    "high": {
+      "exchange": "gemini",
+      "last": 0.05721,
+      "timestamp": "2018-08-08T19:30:51.399Z"
+    },
+    "low": {
+      "exchange": "binance",
+      "last": 0.057116,
+      "timestamp": "2018-08-08T19:30:46.421Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756646421
+  },
+  {
+    "difference": "0.0003969144460027607",
+    "high": {
+      "exchange": "bitstamp",
+      "last": 0.05706264,
+      "timestamp": "2018-08-08T19:30:47.799Z"
+    },
+    "low": {
+      "exchange": "bittrex",
+      "last": 0.05704,
+      "timestamp": "2018-08-08T19:30:49.051Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756647799
+  },
+  {
+    "difference": "0.0006547190946650794",
+    "high": {
+      "exchange": "coinbase_pro",
+      "last": 0.0571,
+      "timestamp": "2018-08-08T19:30:50.393Z"
+    },
+    "low": {
+      "exchange": "bitstamp",
+      "last": 0.05706264,
+      "timestamp": "2018-08-08T19:30:47.799Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756647799
+  },
+  {
+    "difference": "0.0025824252085075994",
+    "high": {
+      "exchange": "gemini",
+      "last": 0.05721,
+      "timestamp": "2018-08-08T19:30:51.399Z"
+    },
+    "low": {
+      "exchange": "bitstamp",
+      "last": 0.05706264,
+      "timestamp": "2018-08-08T19:30:47.799Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756647799
+  },
+  {
+    "difference": "0.0010518934081344966",
+    "high": {
+      "exchange": "coinbase_pro",
+      "last": 0.0571,
+      "timestamp": "2018-08-08T19:30:50.393Z"
+    },
+    "low": {
+      "exchange": "bittrex",
+      "last": 0.05704,
+      "timestamp": "2018-08-08T19:30:49.051Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756649051
+  },
+  {
+    "difference": "0.002980364656381518",
+    "high": {
+      "exchange": "gemini",
+      "last": 0.05721,
+      "timestamp": "2018-08-08T19:30:51.399Z"
+    },
+    "low": {
+      "exchange": "bittrex",
+      "last": 0.05704,
+      "timestamp": "2018-08-08T19:30:49.051Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756649051
+  },
+  {
+    "difference": "0.0019264448336251405",
+    "high": {
+      "exchange": "gemini",
+      "last": 0.05721,
+      "timestamp": "2018-08-08T19:30:51.399Z"
+    },
+    "low": {
+      "exchange": "coinbase_pro",
+      "last": 0.0571,
+      "timestamp": "2018-08-08T19:30:50.393Z"
+    },
+    "market": "BTC-ETH",
+    "timestamp": 1533756650393
+  },
+  {
+    "difference": "0.0005020161290323344",
+    "high": {
+      "exchange": "bitstamp",
+      "last": 0.00992498,
+      "timestamp": "2018-08-08T19:30:53.268Z"
+    },
+    "low": {
+      "exchange": "binance",
+      "last": 0.00992,
+      "timestamp": "2018-08-08T19:30:52.033Z"
+    },
+    "market": "BTC-LTC",
+    "timestamp": 1533756652033
+  },
+  {
+    "difference": "0.0017137096774193505",
+    "high": {
+      "exchange": "bittrex",
+      "last": 0.009937,
+      "timestamp": "2018-08-08T19:30:54.069Z"
+    },
+    "low": {
+      "exchange": "binance",
+      "last": 0.00992,
+      "timestamp": "2018-08-08T19:30:52.033Z"
+    },
+    "market": "BTC-LTC",
+    "timestamp": 1533756652033
+  },
+  {
+    "difference": 0,
+    "high": {
+      "exchange": "binance",
+      "last": 0.00992,
+      "timestamp": "2018-08-08T19:30:52.033Z"
+    },
+    "low": {
+      "exchange": "coinbase_pro",
+      "last": 0.00992,
+      "timestamp": "2018-08-08T19:30:54.992Z"
+    },
+    "market": "BTC-LTC",
+    "timestamp": 1533756652033
+  },
+  {
+    "difference": "0.0012110855639002605",
+    "high": {
+      "exchange": "bittrex",
+      "last": 0.009937,
+      "timestamp": "2018-08-08T19:30:54.069Z"
+    },
+    "low": {
+      "exchange": "bitstamp",
+      "last": 0.00992498,
+      "timestamp": "2018-08-08T19:30:53.268Z"
+    },
+    "market": "BTC-LTC",
+    "timestamp": 1533756653268
+  },
+  {
+    "difference": "0.0005020161290323344",
+    "high": {
+      "exchange": "bitstamp",
+      "last": 0.00992498,
+      "timestamp": "2018-08-08T19:30:53.268Z"
+    },
+    "low": {
+      "exchange": "coinbase_pro",
+      "last": 0.00992,
+      "timestamp": "2018-08-08T19:30:54.992Z"
+    },
+    "market": "BTC-LTC",
+    "timestamp": 1533756653268
+  },
+  {
+    "difference": "0.0017137096774193505",
+    "high": {
+      "exchange": "bittrex",
+      "last": 0.009937,
+      "timestamp": "2018-08-08T19:30:54.069Z"
+    },
+    "low": {
+      "exchange": "coinbase_pro",
+      "last": 0.00992,
+      "timestamp": "2018-08-08T19:30:54.992Z"
+    },
+    "market": "BTC-LTC",
+    "timestamp": 1533756654069
+  },
+  {
+    "difference": "0.009044657998869443",
+    "high": {
+      "exchange": "bittrex",
+      "last": 0.00357,
+      "timestamp": "2018-08-08T19:30:56.363Z"
+    },
+    "low": {
+      "exchange": "binance",
+      "last": 0.003538,
+      "timestamp": "2018-08-08T19:30:55.672Z"
+    },
+    "market": "BTC-NEO",
+    "timestamp": 1533756655672
+  },
+  {
+    "difference": "0.01737474522493021",
+    "high": {
+      "exchange": "binance",
+      "last": 0.01474,
+      "timestamp": "2018-08-08T19:30:57.468Z"
+    },
+    "low": {
+      "exchange": "bittrex",
+      "last": 0.01448827,
+      "timestamp": "2018-08-08T19:30:58.123Z"
+    },
+    "market": "ETH-QTUM",
+    "timestamp": 1533756657468
+  },
+  {
+    "difference": "0.002718868950516651",
+    "high": {
+      "exchange": "bittrex",
+      "last": 0.00012908,
+      "timestamp": "2018-08-08T19:30:59.401Z"
+    },
+    "low": {
+      "exchange": "binance",
+      "last": 0.00012873,
+      "timestamp": "2018-08-08T19:30:58.840Z"
+    },
+    "market": "ETH-SNT",
+    "timestamp": 1533756658840
+  }
+]

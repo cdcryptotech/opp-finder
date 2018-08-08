@@ -1,0 +1,200 @@
+{
+  "binance": {
+    "fees": {
+      "taker": {
+        "value": 0.1,
+        "unit": "percent"
+      },
+      "maker": {
+        "value": 0,
+        "unit": "percent"
+      },
+      "deposit": 0,
+      "withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    },
+    "limits": {
+      "min-deposit": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      },
+      "min-withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    }
+  },
+  "bitflyer": {
+    "fees": {
+      "taker": {
+        "value": 0.1,
+        "unit": "percent"
+      },
+      "maker": {
+        "value": 0,
+        "unit": "percent"
+      },
+      "deposit": 0,
+      "withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    },
+    "limits": {
+      "min-deposit": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      },
+      "min-withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    }
+  },
+  "bitstamp": {
+    "fees": {
+      "taker": {
+        "value": 0.1,
+        "unit": "percent"
+      },
+      "maker": {
+        "value": 0,
+        "unit": "percent"
+      },
+      "deposit": 0,
+      "withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    },
+    "limits": {
+      "min-deposit": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      },
+      "min-withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    }
+  },
+  "bittrex": {
+    "fees": {
+      "taker": {
+        "value": 0.1,
+        "unit": "percent"
+      },
+      "maker": {
+        "value": 0,
+        "unit": "percent"
+      },
+      "deposit": 0,
+      "withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    },
+    "limits": {
+      "min-deposit": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      },
+      "min-withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    }
+  },
+  "coinbase_pro": {
+    "fees": {
+      "taker": {
+        "value": 0.1,
+        "unit": "percent"
+      },
+      "maker": {
+        "value": 0,
+        "unit": "percent"
+      },
+      "deposit": 0,
+      "withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    },
+    "limits": {
+      "min-deposit": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      },
+      "min-withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    }
+  },
+  "gemini": {
+    "fees": {
+      "taker": {
+        "value": 0.1,
+        "unit": "percent"
+      },
+      "maker": {
+        "value": 0,
+        "unit": "percent"
+      },
+      "deposit": 0,
+      "withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    },
+    "limits": {
+      "min-deposit": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      },
+      "min-withdrawal": {
+        "BTC": {
+          "value": 0.1,
+          "unit": "BTC"
+        }
+      }
+    }
+  }
+}
